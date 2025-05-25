@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "244793708653",
+    "project_id": "d-p-migx",
+    "storage_bucket": "d-p-migx.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:244793708653:android:cd72a08015ac6a5542af64",
+        "android_client_info": {
+          "package_name": "com.app.migx"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAcpVuLPArCRDIKINA_eyebRfHI8iLfndE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
